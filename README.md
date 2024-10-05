@@ -10,3 +10,8 @@
 2. Dos
 3. Tres
 4. Cuatro
+**texto negritas**
+_texto italica_
+***texto italica negrita***
+
+![ciclo de vida de una Android App](https://edenms.wordpress.com/wp-content/uploads/2015/05/life.png?w=570)
